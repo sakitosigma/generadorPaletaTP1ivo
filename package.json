@@ -1,0 +1,20 @@
+{
+  "name": "tp1ibot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sakitosigma/TP1IBOT#readme",
+  "bugs": {
+    "url": "https://github.com/sakitosigma/TP1IBOT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakitosigma/TP1IBOT.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
